@@ -10,7 +10,7 @@
 
 
 # Description
-I am a former NASA researcher, as well as a roboticist, researcher, and entrepreneur. Currently, I work as a Robotics Engineer at QibiTech Inc. in Tokyo, Japan. My research interests include Human Intelligence Systems (HIS), Robotics, Mechatronics, Computer Vision, and AI. 
+I am a former NASA researcher, as well as a roboticist, researcher, and entrepreneur. Currently, I work as a Robotics Engineer at QibiTech Inc. in Tokyo, Japan. My research interests include Human Intelligence Systems (HIS), Robotics, Mechatronics, Computer Vision, and AI. I am deeply passionate about driving innovation in service and factory robotics, Healthcare Robotics, space robotics, and agricultural robotics. I also maintain a growing interest in business strategy and technology consultancy.
 
 
 # Research Field
@@ -19,6 +19,12 @@ I am a former NASA researcher, as well as a roboticist, researcher, and entrepre
 - Mechatronics & Embedded System / Automation 
 - Computer Vision
 - Artificial Intelligence (AI)
+
+# Field of interest
+- Service & Factory Robotics
+- Healthcare Robotics 
+- Space Robotics
+- Agro Robotics
 
 
 # Features
